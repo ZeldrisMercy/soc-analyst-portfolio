@@ -10,7 +10,7 @@ Estudante de **Sistemas de Informação (7º período)** na Uniube, focado em **
 * **Certified in Cybersecurity (CC)** — ISC2 (Abril 2026);
 * **Cisco CyberOps Associate** — (Curso concluído em Março 2026);
 * **Hackers do Bem** — Módulos: Nivelamento, Básico e Fundamental. Especialização em Blue Team em Andamento;
-* **CCNA- 1 (Completo), 2 e 3 (Em andamento);
+* **CCNA** — CCNA- 1 (Completo), 2 e 3 (Em andamento);
 * **AWS Santander Tech Journey** — Cloud Practitioner (Em andamento);
 * **English Proficiency:** C2 Level (EF SET).
 
