@@ -32,5 +32,3 @@ Para facilitar a revisão, os resultados estão organizados nos seguintes format
 3. **[Evidências Visuais](images/):** Capturas de tela da matriz de conformidade e planos de ação.
 
 ---
-
-[⬅️ Voltar para a raiz do Portfólio](../../../README.md)
