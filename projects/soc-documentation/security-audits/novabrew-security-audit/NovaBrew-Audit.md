@@ -5,15 +5,6 @@
 
 ---
 
-## 📄 Document Preview
-> *Visual evidence of the executive report formatted for stakeholders.*
-
-![NovaBrew Audit Report Page 1](images/audit-page-1.png)
-
-![NovaBrew Audit Report Page 2](images/audit-page-2.png)
-
----
-
 ## 1. Executive Summary
 This report documents an internal security audit conducted for NovaBrew Supply Co.. Following the recent launch of their direct-to-consumer e-commerce platform, this audit aims to assess the current security posture, identify vulnerabilities within the network architecture, and evaluate compliance with data protection standards (PCI DSS and GDPR).
 
